@@ -1,16 +1,14 @@
 <div align="center">
 
-# ⚡ IAN.EXE
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=IAN.EXE&fontSize=58&fontAlignY=38&desc=AI%20%7C%20ANDROID%20%7C%20WEB%20%7C%20SOFTWARE&descAlignY=62&animation=fadeIn" width="100%"/>
 
-### `AI DEVELOPER • SOFTWARE ENGINEER • BUILDER`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2800&pause=900&color=00FFAA&center=true&vCenter=true&width=720&lines=SYSTEM+ONLINE+%E2%9C%93;AI+%2B+SOFTWARE+DEVELOPER;BUILDING+IDEAS+INTO+WORKING+SYSTEMS;ANDROID+%7C+WEB+%7C+BACKEND+%7C+AI;CODE.+LEARN.+BUILD.+REPEAT." alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=Initializing+IAN.EXE...;System+Online+%E2%9C%93;Building+AI-Powered+Software;Android+%7C+Web+%7C+Backend+%7C+AI;Turning+Ideas+Into+Working+Systems;Always+Learning.+Always+Building." alt="Typing SVG" />
+<br/>
 
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME\&style=for-the-badge\&color=00ffaa)](https://github.com/YOUR_GITHUB_USERNAME)
-[![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge\&color=00ffaa\&labelColor=050505)](https://github.com/YOUR_GITHUB_USERNAME?tab=followers)
+[![GitHub](https://img.shields.io/badge/GitHub-ghostfaceghost62--byte-111111?style=for-the-badge&logo=github)](https://github.com/ghostfaceghost62-byte)
+[![Profile Views](https://komarev.com/ghpvc/?username=ghostfaceghost62-byte&style=for-the-badge&color=00ffaa)](https://github.com/ghostfaceghost62-byte)
+[![Followers](https://img.shields.io/github/followers/ghostfaceghost62-byte?style=for-the-badge&color=00ffaa&labelColor=111111)](https://github.com/ghostfaceghost62-byte?tab=followers)
 
 </div>
 
@@ -20,275 +18,151 @@
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║                     IAN DEVELOPER HUD                        ║
+║                    IAN DEVELOPER HUD                         ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
-║  USER             : IAN                                      ║
-║  ROLE             : SOFTWARE / AI DEVELOPER                  ║
-║  STATUS           : ONLINE                                   ║
-║  MODE             : BUILD                                    ║
-║  CURRENT LEVEL    : BSIT DEVELOPER                           ║
+║  IDENTITY       : IAN / IAN.EXE                              ║
+║  ROLE           : AI + SOFTWARE DEVELOPER                    ║
+║  STATUS         : ● ONLINE                                   ║
+║  MODE           : BUILD                                     ║
+║  OS             : HUMAN v2.0                                ║
 ║                                                              ║
-║  PRIMARY FOCUS    : AI • SOFTWARE • MOBILE • WEB             ║
-║  SECONDARY FOCUS  : DATABASES • BACKEND • AUTOMATION          ║
+║  CORE           : Kotlin • Java • C++ • JavaScript           ║
+║  AI             : Code Analysis • Generative AI              ║
+║  MOBILE         : Android • Jetpack Compose                   ║
+║  WEB            : HTML • CSS • JS • Node.js                  ║
+║  DATA           : SQL • MySQL • Supabase • Room              ║
 ║                                                              ║
-║  CURRENT MISSION  : BUILD SOMETHING USEFUL                    ║
-║                                                              ║
-║  SYSTEM MESSAGE   : "Code. Learn. Build. Repeat."             ║
+║  DIRECTIVE      : BUILD SOMETHING USEFUL                     ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
----
-
 ## `> ABOUT_ME`
 
-```yaml
-name: Ian
-alias: IAN.EXE
-role: AI / Software Developer
-education: Bachelor of Science in Information Technology
+I'm **Ian**, an Information Technology student and aspiring software developer who enjoys turning ideas into real applications.
 
-interests:
+I like working across **AI, Android, web development, backend systems, databases, automation, and software architecture**. My favorite part of development is taking a rough idea, breaking it into systems, and gradually making it work.
+
+```yaml
+focus:
   - Artificial Intelligence
-  - Software Development
   - Android Development
   - Web Development
   - Backend Systems
-  - Databases
+  - Database Systems
+  - Software Engineering
   - Automation
-  - Cybersecurity
-  - UI/UX
 
 mindset:
-  - Build
-  - Experiment
-  - Learn
-  - Improve
-  - Repeat
-
-mission:
-  "Turn ideas into real, usable software."
+  build: true
+  learn: true
+  experiment: true
+  improve: true
 ```
-
-I'm an **IT student and aspiring software developer** who enjoys building applications, experimenting with new technologies, and turning ideas into working systems.
-
-My current interests revolve around **AI-powered applications, Android development, web systems, databases, automation, and software engineering**.
-
-I don't just want to learn how technology works.
-
-I want to **build with it.**
 
 ---
 
 # `> TECH_STACK`
 
-### 🧠 Languages
+<div align="center">
 
-<p align="center">
+### LANGUAGES
 
-<img src="https://skillicons.dev/icons?i=java,kotlin,cpp,python,cs,js,ts,php,html,css,sql,dart" />
+<img src="https://skillicons.dev/icons?i=java,kotlin,cpp,python,cs,js,ts,php,html,css,dart" />
 
-</p>
+### FRAMEWORKS / PLATFORMS
 
-### ⚙️ Frameworks & Technologies
+<img src="https://skillicons.dev/icons?i=androidstudio,android,nodejs,express,dotnet,react,mysql,supabase,firebase" />
 
-<p align="center">
+### TOOLS
 
-<img src="https://skillicons.dev/icons?i=androidstudio,android,react,nodejs,express,dotnet,git,github,mysql,supabase,firebase" />
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,git,github" />
 
-</p>
-
-### 🛠️ Development Environment
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,idea,git,github" />
-
-</p>
+</div>
 
 ---
 
-# `> SKILL_MATRIX`
+# `> FEATURED_SYSTEMS`
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                    DEVELOPMENT MATRIX                       │
-├───────────────────────────────┬─────────────────────────────┤
-│ DOMAIN                        │ STATUS                      │
-├───────────────────────────────┼─────────────────────────────┤
-│ Java                          │ █████████░  ADVANCING       │
-│ Kotlin / Android              │ ████████░░  BUILDING        │
-│ C++                           │ ███████░░░  BUILDING        │
-│ Python                        │ ███████░░░  LEARNING        │
-│ JavaScript                    │ ████████░░  BUILDING        │
-│ HTML / CSS                    │ █████████░  STRONG          │
-│ SQL / Databases               │ ████████░░  BUILDING        │
-│ Node.js / Backend             │ ███████░░░  ADVANCING       │
-│ UI / UX                       │ ███████░░░  BUILDING        │
-│ Artificial Intelligence       │ ███████░░░  EXPLORING       │
-└───────────────────────────────┴─────────────────────────────┘
-```
-
----
-
-# `> FEATURED_PROJECTS`
+<table>
+<tr>
+<td width="50%">
 
 ## 🤖 DE CODE AI
 
-> **AI-powered code explanation and analysis platform**
+AI-powered code explanation and analysis application.
 
-A developer-focused application designed to transform complex source code into understandable explanations.
+**Capabilities**
+- Code explanation
+- Line-by-line analysis
+- Beginner / Intermediate / Advanced modes
+- Security analysis
+- Performance analysis
+- Offline knowledge base
+- Generative AI integration
 
-### Core concept
+`Kotlin` `Compose` `Android` `AI`
 
-```text
-SOURCE CODE
-     │
-     ▼
-┌───────────────┐
-│ CODE ANALYSIS │
-└───────┬───────┘
-        │
-        ▼
-┌────────────────────┐
-│ STATIC ANALYSIS    │
-└────────┬───────────┘
-         │
-         ▼
-┌────────────────────┐
-│ GENERATIVE AI      │
-└────────┬───────────┘
-         │
-         ▼
-┌────────────────────┐
-│ HUMAN EXPLANATION  │
-└────────────────────┘
-```
-
-### Features
-
-* 🧠 AI-powered explanations
-* 🔍 Code analysis
-* 📖 Beginner / Intermediate / Advanced explanations
-* 📝 Line-by-line explanation
-* 🔐 Security analysis
-* ⚡ Performance analysis
-* 💾 Offline knowledge base
-* 📱 Android application
-* 🌐 Multiple programming languages
-
-**Tech:** `Kotlin` `Jetpack Compose` `Android` `AI` `Static Analysis`
-
----
+</td>
+<td width="50%">
 
 ## 📚 UNISHELF
 
-> **Offline-first Book Reservation System**
+Offline-first book reservation system.
 
-A modern mobile application designed for managing books, reservations, favorites, accounts, and ratings.
+**Capabilities**
+- Book catalog
+- Reservations
+- Favorites
+- Ratings
+- Barcode scanning
+- Reminder notifications
+- Local accounts
+- Room database
 
-### Technology
+`Kotlin` `Compose` `Room` `CameraX` `ML Kit`
 
-```text
-Kotlin
-   │
-   ├── Jetpack Compose
-   ├── Material 3
-   ├── Room Database
-   ├── DataStore
-   ├── CameraX
-   ├── ML Kit
-   └── AlarmManager
-```
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-### Features
+## 🏨 HOTEL RESERVATION
 
-* 📚 Book catalog
-* 🔎 Book search
-* 📖 Reservations
-* ⭐ Favorites
-* 🌟 Ratings
-* 📷 Barcode scanning
-* 🔔 Reservation reminders
-* 👤 Local accounts
-* 💾 Offline-first architecture
+Full-stack reservation platform for hotels, rooms, bookings and users.
 
----
+`HTML` `CSS` `JavaScript` `Node.js` `Express` `SQL`
 
-## 🏨 HOTEL RESERVATION SYSTEM
-
-> **Full-stack hotel reservation platform**
-
-A web-based reservation system designed to manage hotels, rooms, users, bookings, payments, and reviews.
-
-### Architecture
-
-```text
-CLIENT
-  │
-  ▼
-WEB APPLICATION
-  │
-  ▼
-NODE.JS / EXPRESS
-  │
-  ├── Authentication
-  ├── Reservations
-  ├── Availability
-  ├── Payments
-  └── Notifications
-  │
-  ▼
-DATABASE
-```
-
-**Tech:** `HTML` `CSS` `JavaScript` `Node.js` `Express` `SQL`
-
----
+</td>
+<td width="50%">
 
 ## 🛒 EAGLE ONE
 
-> **Modern e-commerce web application**
+E-commerce web system with authentication, products, cart, favorites and orders.
 
-A shopping platform featuring product browsing, authentication, cart management, orders, and persistent local storage.
+`HTML` `CSS` `JavaScript` `LocalStorage`
 
-### Features
-
-* 🛍️ Product catalog
-* 🔐 Authentication
-* 🛒 Shopping cart
-* ❤️ Favorites
-* 📦 Orders
-* 💾 LocalStorage persistence
-* 📱 Responsive UI
+</td>
+</tr>
+</table>
 
 ---
 
-# `> WHAT_I_BUILD`
+# `> DEVELOPMENT_MATRIX`
 
 ```text
-              ┌─────────────────────────┐
-              │       IAN.EXE           │
-              └────────────┬────────────┘
-                           │
-          ┌────────────────┼────────────────┐
-          │                │                │
-          ▼                ▼                ▼
-      🤖 AI             📱 MOBILE         🌐 WEB
-          │                │                │
-          ▼                ▼                ▼
-   Code Analysis       Android Apps      Full Stack
-   AI Systems          Kotlin            JavaScript
-   Automation          Compose           Node.js
-          │                │                │
-          └────────────────┼────────────────┘
-                           │
-                           ▼
-                    🗄️ DATABASE SYSTEMS
-                           │
-                           ▼
-                    🚀 SOFTWARE SYSTEMS
+AI / MACHINE INTELLIGENCE     █████████░  BUILDING
+ANDROID / KOTLIN              █████████░  BUILDING
+WEB DEVELOPMENT               █████████░  BUILDING
+JAVA                          █████████░  ADVANCING
+C++                           ███████░░░  BUILDING
+PYTHON                        ███████░░░  LEARNING
+JAVASCRIPT                    ████████░░  ADVANCING
+SQL / DATABASES               ████████░░  BUILDING
+BACKEND / NODE.JS             ███████░░░  ADVANCING
+UI / UX                       ███████░░░  BUILDING
+SOFTWARE ARCHITECTURE         ██████░░░░  EXPLORING
 ```
 
 ---
@@ -296,21 +170,21 @@ A shopping platform featuring product browsing, authentication, cart management,
 # `> CURRENT_MISSION`
 
 ```text
-[████████████████████████████████] 100%
+MISSION: BECOME A STRONGER SOFTWARE DEVELOPER
 
-MISSION: BECOME A BETTER SOFTWARE DEVELOPER
+[██████████████████████████████] ONLINE
 
-[x] Learn programming fundamentals
-[x] Build web applications
-[x] Learn databases
-[x] Explore Android development
-[x] Build AI-powered applications
-[x] Work with APIs
-[x] Learn software architecture
-[ ] Build larger production systems
-[ ] Master advanced system design
-[ ] Create more open-source projects
-[ ] Build something people actually use
+[x] Programming fundamentals
+[x] Web applications
+[x] Database systems
+[x] Android development
+[x] API integration
+[x] AI-powered applications
+[x] Software architecture
+[>] Build larger production-ready systems
+[>] Improve system design
+[>] Expand open-source projects
+[>] Ship software people can actually use
 ```
 
 ---
@@ -319,29 +193,22 @@ MISSION: BECOME A BETTER SOFTWARE DEVELOPER
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ghostfaceghost62-byte&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&rank_icon=github" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostfaceghost62-byte&layout=compact&langs_count=10&hide_border=true&theme=transparent" height="180" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true&langs_count=10" height="180"/>
+<br/>
 
-</div>
-
----
-
-## `> CONTRIBUTION_CORE`
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=ghostfaceghost62-byte&theme=transparent&hide_border=true" />
 
 </div>
 
 ---
 
-# `> CONTRIBUTION_MATRIX`
+# `> CONTRIBUTION_CORE`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ghostfaceghost62-byte&theme=github-compact&hide_border=true&area=true" width="100%"/>
 
 </div>
 
@@ -351,7 +218,7 @@ MISSION: BECOME A BETTER SOFTWARE DEVELOPER
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ghostfaceghost62-byte/ghostfaceghost62-gmail.com/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" width="100%" />
 
 </div>
 
@@ -361,36 +228,41 @@ MISSION: BECOME A BETTER SOFTWARE DEVELOPER
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=2" />
+<img src="https://github-profile-trophy.vercel.app/?username=ghostfaceghost62-byte&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=2" width="100%" />
 
 </div>
 
 ---
 
-# `> DEVELOPMENT_PHILOSOPHY`
+# `> ARCHITECTURE`
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  01  BUILD                                                   │
-│      Don't just learn the technology.                        │
-│      Build something with it.                                │
-│                                                              │
-│  02  BREAK                                                   │
-│      Bugs aren't failures.                                   │
-│      They're debugging opportunities.                        │
-│                                                              │
-│  03  LEARN                                                   │
-│      Every project should teach something new.                │
-│                                                              │
-│  04  IMPROVE                                                 │
-│      Version 2 should always be better than version 1.        │
-│                                                              │
-│  05  SHIP                                                    │
-│      A finished project beats a perfect project that never   │
-│      leaves the development environment.                     │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+                         ┌───────────────┐
+                         │    IAN.EXE     │
+                         └───────┬───────┘
+                                 │
+             ┌───────────────────┼───────────────────┐
+             │                   │                   │
+             ▼                   ▼                   ▼
+        ┌─────────┐         ┌─────────┐         ┌─────────┐
+        │   AI    │         │ MOBILE  │         │   WEB   │
+        └────┬────┘         └────┬────┘         └────┬────┘
+             │                   │                   │
+             ▼                   ▼                   ▼
+       Code Analysis        Kotlin / Compose     JS / Node
+       Generative AI        Android / Room       Express
+             │                   │                   │
+             └───────────────────┼───────────────────┘
+                                 │
+                                 ▼
+                         ┌───────────────┐
+                         │    DATABASE   │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                         ┌───────────────┐
+                         │  REAL SYSTEM  │
+                         └───────────────┘
 ```
 
 ---
@@ -399,56 +271,33 @@ MISSION: BECOME A BETTER SOFTWARE DEVELOPER
 
 ```bash
 $ whoami
-
 ian
 
-$ cat mission.txt
+$ status
+ONLINE
 
+$ mission
 Build useful software.
 Learn continuously.
 Solve problems.
 Explore AI.
-Create systems.
-Become a better developer.
+Ship better systems.
 
 $ ./ian.exe
 
-STATUS: ONLINE
-MODE: BUILD
+> SYSTEM READY
+> BUILD MODE ENABLED
+> END OF TRANSMISSION
 ```
-
----
-
-# `> CONNECT`
-
-<div align="center">
-
-### `LET'S BUILD SOMETHING.`
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
 
 ---
 
 <div align="center">
 
-```text
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║                SYSTEM STATUS: ONLINE                      ║
-║                                                            ║
-║        CODE • CREATE • LEARN • REPEAT                     ║
-║                                                            ║
-║                    IAN.EXE                                ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-```
+### `CODE • CREATE • LEARN • REPEAT`
 
-### ⚡ `END OF TRANSMISSION`
+[![GitHub](https://img.shields.io/badge/EXPLORE_MY_CODE-00ffaa?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ghostfaceghost62-byte)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
