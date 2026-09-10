@@ -189,34 +189,68 @@ MISSION: BECOME A STRONGER SOFTWARE DEVELOPER
 
 ---
 
-# `> GITHUB_ANALYTICS`
+# `> GITHUB_ANALYTICS // CORE_SYSTEM`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ghostfaceghost62-byte&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&rank_icon=github" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostfaceghost62-byte&layout=compact&langs_count=10&hide_border=true&theme=transparent" height="180" />
+```text
+┌──────────────────────────────────────────────────────────────┐
+│  ANALYTICS ENGINE                                            │
+│  ──────────────────────────────────────────────────────────  │
+│  PROFILE      : GHOSTFACEGHOST62-BYTE                        │
+│  TELEMETRY    : GITHUB PUBLIC DATA                           │
+│  STATUS       : ● LIVE                                       │
+│  MODE         : REAL-TIME PROFILE SNAPSHOT                   │
+└──────────────────────────────────────────────────────────────┘
+```
+
+<img src="https://github-readme-stats.vercel.app/api?username=ghostfaceghost62-byte&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&rank_icon=github&custom_title=SYSTEM%20STATISTICS" height="190" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostfaceghost62-byte&layout=compact&langs_count=10&hide_border=true&theme=transparent&custom_title=LANGUAGE%20MATRIX" height="190" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=ghostfaceghost62-byte&theme=transparent&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=ghostfaceghost62-byte&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="80%" />
 
 </div>
 
 ---
 
-# `> CONTRIBUTION_CORE`
+# `> CONTRIBUTION_CORE // ACTIVITY_MATRIX`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ghostfaceghost62-byte&theme=github-compact&hide_border=true&area=true" width="100%"/>
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                    CONTRIBUTION CORE                         ║
+╠══════════════════════════════════════════════════════════════╣
+║  INPUT        : COMMITS / ISSUES / PULL REQUESTS             ║
+║  VISUALIZER   : ACTIVITY GRAPH                               ║
+║  OBJECTIVE    : TRACK BUILD VELOCITY                         ║
+║  STATUS       : ● MONITORING                                 ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ghostfaceghost62-byte&theme=github-compact&hide_border=true&area=true&custom_title=CONTRIBUTION%20ACTIVITY%20MATRIX" width="100%"/>
 
 </div>
 
 ---
 
-# `> SNAKE_PROTOCOL`
+# `> SNAKE_PROTOCOL // CONTRIBUTION_VISUALIZER`
 
 <div align="center">
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│  SNAKE PROTOCOL                                              │
+│  ──────────────────────────────────────────────────────────  │
+│  TARGET       : CONTRIBUTION GRID                            │
+│  ENGINE       : GITHUB ACTIONS + PLATANE/SNK                  │
+│  OUTPUT       : SVG                                           │
+│  REFRESH      : AUTOMATED                                     │
+│  STATUS       : ● ARMED                                       │
+└──────────────────────────────────────────────────────────────┘
+```
 
 <img src="https://raw.githubusercontent.com/ghostfaceghost62-byte/ghostfaceghost62-gmail.com/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" width="100%" />
 
@@ -224,11 +258,22 @@ MISSION: BECOME A STRONGER SOFTWARE DEVELOPER
 
 ---
 
-# `> TROPHY_SYSTEM`
+# `> TROPHY_SYSTEM // ACHIEVEMENT_CORE`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ghostfaceghost62-byte&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=2" width="100%" />
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                    TROPHY SYSTEM                             ║
+╠══════════════════════════════════════════════════════════════╣
+║  MODULE       : GITHUB ACHIEVEMENTS                           ║
+║  DISPLAY      : PROFILE TROPHIES                              ║
+║  TRACKING     : MILESTONES / CONTRIBUTIONS / REPOSITORIES     ║
+║  STATUS       : ● SCANNING                                   ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://github-profile-trophy.vercel.app/?username=ghostfaceghost62-byte&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=2&column=6" width="100%" />
 
 </div>
 
